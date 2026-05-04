@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Pad central -->
+  <ellipse cx="50" cy="62" rx="22" ry="18" fill="currentColor" opacity="0.9"/>
+  <!-- Dedos -->
+  <ellipse cx="24" cy="44" rx="10" ry="13" fill="currentColor" opacity="0.9"/>
+  <ellipse cx="40" cy="33" rx="10" ry="13" fill="currentColor" opacity="0.9"/>
+  <ellipse cx="60" cy="33" rx="10" ry="13" fill="currentColor" opacity="0.9"/>
+  <ellipse cx="76" cy="44" rx="10" ry="13" fill="currentColor" opacity="0.9"/>
+</svg>
